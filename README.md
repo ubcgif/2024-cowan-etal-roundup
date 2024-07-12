@@ -1,2 +1,2 @@
-# template-repository-conference
-template repository for conference proceedings
+# Airborne Natural Source Electromagnetics for an Arbitrary Base Station
+
