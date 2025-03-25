@@ -34,10 +34,11 @@ project:
   # github:
   # bibliography: []
   keywords:
-    - QAMT 
-    - ZTEM 
-    - inversion 
+    - QAMT
+    - ZTEM
+    - inversion
     - airborne natural source EM
+    - electromagnetics
 site:
   template: article-theme
   actions:
